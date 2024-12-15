@@ -1116,3 +1116,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 16:01:24.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MrPapu1024 joined the game
 [15Dec2024 16:01:24.345] [Server thread/INFO] [Waila/]: Syncing config to MrPapu1024 (e151a835-4d90-3742-8f92-a607fd255020)
 [15Dec2024 16:01:46.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrPapu1024: Set the time to 1000]
+[15Dec2024 16:04:26.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrPapu1024: Set the time to 1000]
+[15Dec2024 16:07:31.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrPapu1024 lost connection: Disconnected
+[15Dec2024 16:07:31.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MrPapu1024 left the game
