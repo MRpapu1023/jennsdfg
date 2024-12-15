@@ -3503,3 +3503,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 20:14:15.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrPapu1024: Set the time to 1000]
 [15Dec2024 20:17:23.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Dec2024 20:17:23.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 20:22:23.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 20:22:23.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 20:24:25.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrPapu1024: Set the time to 1000]
+[15Dec2024 20:25:42.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made iairps3 a server operator
+[15Dec2024 20:27:23.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 20:27:23.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 20:32:23.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 20:32:23.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 20:37:23.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 20:37:23.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 20:39:26.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrPapu1024: Set the time to 1000]
